@@ -16,7 +16,7 @@ print """
                  |    ||   |  \ \  \___\___  | | \_\ \  ___/|  | \/  \___ < <_|  |  |  // __ \|  | \/ /_/ | 
                  |____||___|  /  \___  > ____| |___  /\___  >__|    /____  >__   |____/(____  /__|  \____ | 
                             \/       \/\/          \/     \/             \/   |__|          \/           \/ 
-we are tn cyber squard and all indian hackers
+we are devil joker , navven haxor , terminator , f3max , and all tn cyber squard memeber and all indian hackers
    
 """
 
