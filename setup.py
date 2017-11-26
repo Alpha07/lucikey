@@ -1,7 +1,6 @@
 import os
 import urllib
 os.system("pip.exe install pyinstaller")
-os.system("pip.exe install pynput")
 urllib.urlretrieve("https://gallery.technet.microsoft.com/scriptcenter/PS2EXE-Convert-PowerShell-9e4e07f1/file/134627/1/PS2EXE-v0.5.0.0.zip", "C:\PS2EXE.zip")
 print """
 
