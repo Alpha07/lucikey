@@ -19,6 +19,6 @@ then convert sys32.py into sys32.exe using pyinstaller module ( open cmd and cha
 
 now upload this sys32.exe into your 5gbfree website and copy the link with the full path of sys32.exe where is located in web server
 
-and now open lucifer.ps1 and replace the file link with your file to keep make it simple and dont tourch and modifi any other text or file link otherwise its will not working 
+and now open lucifer.ps1 and replace the file link with your file sys32.exe link you just uploaded to keep make it simple and dont tourch and modifi any other text or file link otherwise its will not working 
 
 and unzip ps2exe-v5.0.0.zip and now open your windows powershell and change dir into thast folder and file this command: powershell -ExecutionPolicy ByPass -File ps2exe.ps1 -noconsole -inputFile C:\youpoweshell dropper file location here -outputFile C:\where you want to save your exe 
