@@ -3,12 +3,13 @@ its a keylogger to monitor windwos pc
 
 
 
-#how to setup :
-first run setup.py
+# how to setup :
 
-if setup.py not working then manully type :pip install pyinstaller ( if you have error pip is not internal command then open your cmd and change dir into python27 folder then scripts folder now   type: pip.exe install pyinstaller)
+# first run setup.py
 
-open sys32.py and add your gmail address where all logs you will get recived into lino no 11 and 12 link and then add your gmail password into link no 37 and then save this file
+ if setup.py not working then manully type :pip install pyinstaller ( if you have error pip is not internal command then open your cmd and change dir into python27 folder then scripts folder now   type: pip.exe install pyinstaller)
+
+open sys32.py and add your gmail address where all logs you will get recived into lino no 11 and 12 link  and then add your gmail password into link no 37 and then save this file
 
  now open up ur browser and go to 5gbfee.com
 
